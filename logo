@@ -1,0 +1,15 @@
+<head></head>
+  <div class id="logo">
+ <style=
+  >
+  <img style="padding-top:112px;" height="92" width="272" src="https://www.google.com.au/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+</div>
+  
+  <ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+  
+  </style>
